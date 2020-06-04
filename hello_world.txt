@@ -1,7 +1,12 @@
 Lorem ipsum dolor sit amet,
 consectetuer adipiscing elit.
+<<<<<<< HEAD
 commodo ligula eget dolor.
 massa.WORD
+=======
+Aenlucasean commodo ligula eget dolor.
+Aenean massa.WORD
+>>>>>>> cfa1fbd5bd976d9f6302f92f4f658b596d09663f
 Cum sociis natoque penatibus et magnis dis parturient montes,
 nascetur ridiculus mus.
 Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
